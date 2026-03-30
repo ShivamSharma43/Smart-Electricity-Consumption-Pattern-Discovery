@@ -143,3 +143,8 @@ Or in Google Colab (run once at the top of Notebook 1):
 | Isolation Forest | Anomaly detection | `sklearn.ensemble.IsolationForest` |
 
 ---
+## Submitted by:
+## 1. Shivam Sharma (BTECH/10230/23)
+## 2. Mayank Raj (BTECH/10640/23)
+## 3. Aman Agarwal (BTECH/10166/23)
+## 4. Abhinav Anand (BTECH/10164/23)
